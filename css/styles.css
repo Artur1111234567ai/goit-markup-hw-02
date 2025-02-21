@@ -18,6 +18,32 @@ header{
     letter-spacing: 0.03;
     text-transform: uppercase;
 }
+.nav-link{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #2E2F42;
+
+}
+.nav-link:hover,
+.nav-link:focus{
+    color: #404bbf;
+}
+.adress-top{
+    font-style: normal;
+}
+.address-link{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #434455;
+
+}
+.address-lin:hover,
+.address-lin:focus{
+    color: #404bbf;
+}
 .gl-title{
     background-color: #2E2F42;
 }
