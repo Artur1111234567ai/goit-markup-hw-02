@@ -6,6 +6,9 @@ body{
 a {
     text-decoration: none;
 }
+ul{
+    list-style: none;
+}
 header{
     background-color:#FFFFFF;
 }
@@ -46,6 +49,32 @@ header{
 }
 .gl-title{
     background-color: #2E2F42;
+
+}
+.gl-title-one{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02;
+
+}
+.gl-title-button{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04;
+    color: #FFFFFF;
+
+}
+.gl-title-button:hover,
+.gl-title-button:focus{
+    color:#404bbf;
+    cursor: pointer;
+    
 }
 
 h2,h3{
