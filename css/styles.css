@@ -2,6 +2,16 @@ body{
     font-family: "Roboto", serif;
     color: #434455;
 }   
+header{
+    background-color:#FFFFFF;
+}
+nav a{
+    
+}
+.gl-title{
+    background-color: #2E2F42;
+}
+
 h2,h3{
     color:#2E2F42;
 }
