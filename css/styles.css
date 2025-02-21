@@ -1,12 +1,22 @@
 body{
-    font-family: "Roboto", serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
 }   
+a {
+    text-decoration: none;
+}
 header{
     background-color:#FFFFFF;
 }
-nav a{
-    
+.nav-link-logo{
+    font-family:"Raleway", sans-serif;
+    color:#4d5ae5;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03;
+    text-transform: uppercase;
 }
 .gl-title{
     background-color: #2E2F42;
